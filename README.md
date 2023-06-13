@@ -7,4 +7,4 @@ This project is a machine learning web application that can predict whether a ne
 - User-friendly interface: The web app has a clean and intuitive interface, allowing users to easily interact with the prediction functionality.
 - Fast and predictions: The machine learning model has been trained on a reliable dataset, ensuring high accuracy and fast response times.
 
-**reuirements.txt to view the required dependencies**
+**requirements.txt to view the required dependencies**
